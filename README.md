@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariel Wazana!
-- 👀 I’m interested in programming, fitness, and of course, video games!
+- 👀 I’m interested in programming, fitness, and music!
 - 🌱 I’m currently learning Computer Science & Technology.
 - 📫 How to reach me: Send me a PM!
 
